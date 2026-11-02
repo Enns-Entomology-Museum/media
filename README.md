@@ -16,7 +16,8 @@ Photos for the news posts written in TaxonWorks.
 
       ![Caption](https://enns-entomology-museum.github.io/media/news/2026-10-gbif-publisher.jpg)
 
-- A photo is online about a minute after it is pushed.
+- A photo is online on the GitHub site about a minute after it is pushed. For ennsmuseum.missouri.edu, run
+  `npm run deploy:aws` in the website folder: it copies new photos to the MU site (same link in the news text).
 
 ## Keeping it small
 
